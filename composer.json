@@ -3,12 +3,12 @@
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/fx3333/chinademo1",
+    "homepage": "https://github.com/fx3333/feng_laravel_admin-distpickerf",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "fxn",
+            "email": "1226426651@qq.com"
         }
     ],
     "require": {
